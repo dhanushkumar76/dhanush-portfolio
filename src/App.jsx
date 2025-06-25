@@ -8,6 +8,8 @@ import Projects from "./pages/Projects";
 import Footer from "./components/Footer";
 import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
+import Skills from "./pages/Skills"; 
+
 
 
 
@@ -26,6 +28,7 @@ function App() {
              */}
             <Route path="/contact" element={<Contact />} />
             <Route path="/resume" element={<Resume />} />
+            <Route path="/skills" element={<Skills />} />
           </Routes>
         </div>
         <Footer />

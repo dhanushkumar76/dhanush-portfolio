@@ -1,0 +1,7 @@
+{
+  "Languages": ["Python", "Java", "C#", "SQL"],
+  "Frameworks": ["Flask", "Django"],
+  "Cloud & Platforms": ["AWS", "GitHub", "Vercel"],
+  "Tools": ["VS Code", "Excel", "Git", "Jupyter Notebook"],
+  "Concepts": ["Data Structures", "OOP", "DBMS", "Operating Systems", "Networking"]
+}
